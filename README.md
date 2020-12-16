@@ -9,3 +9,5 @@ __Gameplay__
 - There are 4 consecutive battleships placed randomly anywhere, either in horizontal or vertical direction.
 
 Some screenshots of the game:
+
+1. <img src="battleship_start.jpg" width="390"> &emsp; 2. <img src="battleship_mid.jpg" width="260">
